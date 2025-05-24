@@ -51,38 +51,6 @@ This repository contains the full code, datasets, evaluation results, and visual
 
 ---
 
-## 🚀 How to Run
-
-1. Clone the repo:
-```bash
-git clone https://github.com/your-username/obesity-sentiment-mining.git
-cd obesity-sentiment-mining
-```
-
-2. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
-
-3. Run main scripts:
-```bash
-python scripts/obesity_classification.py
-python scripts/sentiment_analysis.py
-python scripts/hybrid_ensemble_online_shoppers.py
-```
-
-4. **To view the final notebook report:**
-- Open Jupyter Notebook in your terminal:
-  ```bash
-  jupyter notebook
-  ```
-- Then open `2025_assignment_final_GROUP.ipynb` from your browser
-- Or upload the file to [nbviewer.org](https://nbviewer.org) for a read-only preview
-
-5. Explore visuals in `/visuals` or open notebooks for interactive results.
-
----
-
 ## 🔧 Dependencies
 
 - Python 3.8+
